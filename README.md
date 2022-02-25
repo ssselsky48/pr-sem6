@@ -33,9 +33,13 @@
 ![image](https://user-images.githubusercontent.com/60671160/153746597-42973990-0a42-4d54-8970-db351f5b4db8.png)
 
 ### ВСР 2.1
+![image](https://user-images.githubusercontent.com/60671160/155739315-ac0bb98a-45c5-45de-b11b-e415c69e9884.png)
 
 ### ВСР 2.2
+![image](https://user-images.githubusercontent.com/60671160/155739345-8b1e3f83-56ba-4997-8330-fe3bd05be97f.png)
 
 ### ВСР 2.3
+![image](https://user-images.githubusercontent.com/60671160/155739390-83d9d894-80b7-41d0-bb6b-94d261f26885.png)
 
 ### ВСР 2.4
+![image](https://user-images.githubusercontent.com/60671160/155739430-0d0b93a4-bd24-43dc-9602-c9aa09e30c5b.png)
